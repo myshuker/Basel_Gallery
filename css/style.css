@@ -110,5 +110,15 @@ body{
 	#sidebar{
 		width:100%;
 		float:none;
-	}
+    }
+    
+    .gallery img{
+        width: 150px;
+        height: 150px;
+        margin: 5px;
+        /* padding: 10px; */
+        border: 2px solid #000;
+        border-radius: 10px;
+    }
+    
 }
